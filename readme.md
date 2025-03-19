@@ -5,8 +5,11 @@ This project demonstrates the usage of Git and GitHub, including essential Git c
 🛠 Git Commands Used
 
 bash
+
 Kopyala
+
 Düzenle
+
 git init             # Initialize a new repository  
 git clone <repo>     # Clone an existing repository  
 git add .            # Stage all changes  
